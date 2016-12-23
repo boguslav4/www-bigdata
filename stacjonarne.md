@@ -41,7 +41,7 @@ Legenda: T – tytuł, K – słowa kluczowe, W – wstęp, B – bibliografia, 
 | | Adamaszek P. | |
 | 12.12.2016 | Banasiak D. | ["Wieloplatformowe aplikacje dla lokalnej społeczności z użyciem otwartych danych miasta Gdańsk" - omówienie problemu](https://bitbucket.org/DanBanasiak/crossplatformapplication) |
 | 10.10.2016 | Czarnecki S. | ["Alternatywne rozwiązanie MySensors.org"](https://www.mysensors.org/) |
-| | Człapiński B. | |
+|  9.01.2017 | Człapiński B. | ["Technologia AMP - Wykorzystanie bibliotek do zwiększenia wydajności stron internetowych z zachowaniem wysokiego wspołczynika użyteczności"](https://bitbucket.org/bczlapinski/seminarium-magisterskie/src/c267799cae60d3bcf9fb71e84a6475da08f3f298/PrezentacjaAMP.pptx?at=master&fileviewer=file-view-default)|
 | | Grzesiak D. | |
 | | Jaworski A. | |
 | 10.10.2016 | Kacprowicz P. | ["Safe3City - bezpieczne trójmiasto" - omówienie problemu](https://slides.com/marekstrzala/safe3city1) |
